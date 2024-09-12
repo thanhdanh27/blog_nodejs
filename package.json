@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhdanh27/nodejs_blog.git"
+  },
+  "keywords": [
+    "td",
+    "blog",
+    "tdblog",
+    "thanhdanh",
+    "blog"
+  ],
+  "author": "danhmt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhdanh27/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/thanhdanh27/nodejs_blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
